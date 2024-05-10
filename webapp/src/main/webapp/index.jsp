@@ -8,7 +8,8 @@
      
      <form method="post" action="index.php">
       <input type="text" name="name">
-      <button type="submit" value="submit"/>
+       <br>
+      <button type="submit" value="submit"> Submit </button>
      </form>
   
    <h1> Thankyou, Happy Learning , Hari Ohm !</h1>
