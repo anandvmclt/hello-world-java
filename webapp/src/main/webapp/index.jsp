@@ -3,7 +3,8 @@
 <body> 
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <p> Please fill in this form to Joi Cource via CI/CD </p>
+    <p> Please fill in this form to Join the Cource</p>
+
     <hr>
      
      <form method="post" action="index.php">
@@ -16,6 +17,6 @@
    <h1> Thankyou, Happy Learning !</h1>
   
   <br>
-   <p> Added ANsible Playbook  </p>
+   <p> Added Ansible Playbook with Docker  </p>
   </body>
 </html>
